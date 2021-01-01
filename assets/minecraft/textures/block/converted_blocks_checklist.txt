@@ -1,0 +1,14 @@
+crafting_table
+furnace
+bast_furnace
+smoker
+barrel
+dispenser (+vertical)
+dropper (+vertical)
+wheat crops
+carrot crops
+potato crops
+beetroot crops
+nether wart crops
+melon stem
+pumpkin stem

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_reworked_bricks",
+	"textures": {
+		"all": "block/bricks/prismarine_bricks",
+		"particle": "block/prismarine_bricks"
+	}
+}

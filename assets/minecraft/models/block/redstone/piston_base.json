@@ -1,0 +1,7 @@
+{
+	"parent": "block/redstone/piston_extended",
+	"textures": {
+		"all": "minecraft:block/redstone/piston",
+		"particle": "minecraft:block/particle/piston"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/doors/door_bottom_rh",
+    "textures": {
+        "all": "block/doors/spruce_door"
+    }
+}

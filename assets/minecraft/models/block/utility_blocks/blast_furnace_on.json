@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_animated_front",
+    "textures": {
+		"particle": "block/particle/blast_furnace",
+        "all": "block/utility_blocks/blast_furnace",
+		"animated": "block/utility_blocks/blast_furnace_front_on"
+    }
+}

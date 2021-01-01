@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_reworked_b_0",
+  "textures": {
+    "all": "minecraft:block/utility_blocks/respawn_anchor"
+  }
+}

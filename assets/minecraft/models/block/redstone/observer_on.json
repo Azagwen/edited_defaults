@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_reworked_a_bottom",
+    "textures": {
+		"particle": "block/particle/observer",
+        "all": "block/redstone/observer"
+    }
+}

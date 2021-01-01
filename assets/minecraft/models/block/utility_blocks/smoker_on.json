@@ -1,0 +1,15 @@
+{
+    "parent": "block/cube_animated_front",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, 135, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        }
+    },
+    "textures": {
+		"particle": "block/particle/smoker",
+        "all": "block/utility_blocks/smoker",
+		"animated": "block/utility_blocks/smoker_front_on"
+    }
+}

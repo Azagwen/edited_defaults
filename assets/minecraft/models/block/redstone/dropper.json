@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_reworked_a",
+    "textures": {
+		"particle": "block/particle/dropper",
+        "all": "block/redstone/dropper"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_reworked_bricks",
+	"textures": {
+		"all": "block/bricks/stone_bricks",
+		"particle": "block/stone_bricks"
+	}
+}

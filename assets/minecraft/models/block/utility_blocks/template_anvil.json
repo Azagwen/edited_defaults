@@ -1,0 +1,65 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"texture_size": [64, 64],
+	"elements": [
+		{
+			"name": "Anvil base",
+			"from": [2, 0, 2],
+			"to": [14, 4, 14],
+			"faces": {
+				"north": {"uv": [3, 8.5, 6, 9.5], "texture": "#all"},
+				"east": {"uv": [0, 8.5, 3, 9.5], "texture": "#all"},
+				"south": {"uv": [9, 8.5, 12, 9.5], "texture": "#all"},
+				"west": {"uv": [6, 8.5, 9, 9.5], "texture": "#all"},
+				"up": {"uv": [6, 8.5, 3, 5.5], "texture": "#all"},
+				"down": {"uv": [9, 8.5, 6, 5.5], "texture": "#all", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Lower narrow portion",
+			"from": [4, 4, 3],
+			"to": [12, 5, 13],
+			"faces": {
+				"north": {"uv": [2.5, 12, 4.5, 12.25], "texture": "#all"},
+				"east": {"uv": [0, 12, 2.5, 12.25], "texture": "#all"},
+				"south": {"uv": [7, 12, 9, 12.25], "texture": "#all"},
+				"west": {"uv": [4.5, 12, 7, 12.25], "texture": "#all"},
+				"up": {"uv": [4.5, 12, 2.5, 9.5], "texture": "#all"},
+				"down": {"uv": [6.5, 9.5, 4.5, 12], "texture": "#all"}
+			}
+		},
+		{
+			"name": "Wider section beneath top portion",
+			"from": [6, 5, 4],
+			"to": [10, 10, 12],
+			"faces": {
+				"north": {"uv": [12, 2, 13, 3.25], "texture": "#all"},
+				"east": {"uv": [10, 2, 12, 3.25], "texture": "#all"},
+				"south": {"uv": [15, 2, 16, 3.25], "texture": "#all"},
+				"west": {"uv": [13, 2, 15, 3.25], "texture": "#all"},
+				"up": {"uv": [13, 2, 12, 0], "texture": "#all"},
+				"down": {"uv": [14, 0, 13, 2], "texture": "#all"}
+			}
+		},
+		{
+			"name": "Anvil top",
+			"from": [3, 10, 0],
+			"to": [13, 16, 16],
+			"faces": {
+				"north": {"uv": [4, 4, 6.5, 5.5], "texture": "#all"},
+				"east": {"uv": [0, 4, 4, 5.5], "texture": "#all"},
+				"south": {"uv": [10.5, 4, 13, 5.5], "texture": "#all"},
+				"west": {"uv": [6.5, 4, 10.5, 5.5], "texture": "#all"},
+				"up": {"uv": [6.5, 4, 4, 0], "texture": "#all"},
+				"down": {"uv": [9, 4, 6.5, 0], "texture": "#all"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/utility_blocks/template_anvil",
+  "textures": {
+    "all": "minecraft:block/utility_blocks/anvil_0",
+	"particle": "minecraft:block/particle/anvil"
+  }
+}

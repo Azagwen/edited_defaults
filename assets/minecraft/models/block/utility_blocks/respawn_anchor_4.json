@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_reworked_b_4_animated_top",
+  "textures": {
+    "all": "minecraft:block/utility_blocks/respawn_anchor",
+	"anim": "minecraft:block/utility_blocks/respawn_anchor_top"
+  }
+}

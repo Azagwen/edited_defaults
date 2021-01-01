@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_reworked_a_bottom",
+    "textures": {
+		"particle": "block/particle/dispenser_vertical",
+        "all": "block/redstone/dispenser"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/doors/door_top_rh",
+    "textures": {
+        "all": "block/doors/iron_door"
+    }
+}
